@@ -25,6 +25,8 @@
 # It is sometimes referred to as Duct Taping, meaning (very loosely) that it is a way of 
 # making things work without specifying exactly what you want.
 
+# by Katya-yani and Fadi
+
 class DockingStation
   def release_bike
     release
