@@ -23,7 +23,7 @@
 # in that it can cause errors when used incorrectly. 
 
 # It is sometimes referred to as Duct Taping, meaning (very loosely) that it is a way of 
-# making things work without creating a robust solution.
+# making things work without specifying exactly what you want.
 
 class DockingStation
   def release_bike
